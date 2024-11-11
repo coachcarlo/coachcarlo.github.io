@@ -4,7 +4,7 @@
 CoachDash helps you manage your coaching business efficiently.
 
 ## Getting Started
-1. Create your account & authentication
+1. [Create your account & authentication](auth.md)
 2. Set up your profile
 3. Add your clients 
 
