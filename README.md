@@ -10,7 +10,7 @@ CoachDash helps you manage your coaching business efficiently.
 
 ## Features
 ### Client Management
-- Track client progress
+- Track client progress 
 - Schedule sessions
 - Manage payments
 
