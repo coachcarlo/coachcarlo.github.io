@@ -27,5 +27,6 @@ CoachDash helps you manage your coaching business efficiently.
 ## Need Help?
 Contact support at support@coachdash.com
 
-- [Terms of Service](terms.md)
-- [Privacy policy](privacy.md)
+[Terms of Service](terms.md)
+
+[Privacy policy](privacy.md)
