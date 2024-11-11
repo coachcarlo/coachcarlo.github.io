@@ -25,5 +25,5 @@ CoachDash helps you manage your coaching business efficiently.
 - Generate reports
 
 ## Need Help?
-[Privacy policy](Privacy.md)
+[Privacy policy](privacy.md)
 Contact support at support@coachdash.com
