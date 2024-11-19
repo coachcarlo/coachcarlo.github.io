@@ -19,6 +19,16 @@ CoachDash helps you manage your coaching business efficiently.
 - Set availability
 - Automatic reminders
 
+ ### [T-CAP (Transformative Coaching Analysis Protocol)](tcap.md)
+- Coaching Essence Extraction (CEE)
+- Values and Beliefs Exploration (VBE)
+- Cognitive-Behavioral Patterns Analysis (CBPA)
+- Future Self Visioning (FSV)
+- Resilience and Resource Identification (RRI)
+- Coachee's Growth Trajectory (CGT)
+- Systemic and Contextual Factors (SCF)
+- Depth Dynamics and Meaning Exploration (DDME)
+
 ### Payments
 - Process payments
 - Track invoices
